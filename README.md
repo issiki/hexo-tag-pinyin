@@ -26,3 +26,6 @@ these is no tests yet.
 
 ## Issues
 submit [issues and bugs here](https://github.com/issiki/hexo-pinyin-ruby-marks/issues).
+
+## License
+MIT ©[Futaba Isshiki](https://www.futaba.love)
