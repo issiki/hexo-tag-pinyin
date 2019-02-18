@@ -1,6 +1,6 @@
 {
   "name": "hexo-pinyin-ruby-marks",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A wheel that converts Hanyu pinyin tone numbers to tone marks.",
   "main": "index.js",
   "scripts": {
