@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.4] - 2019-02-20
+- update README.md. correct urls.
+
 ## [0.1.2] - 2019-02-18
 ### Fixed
 - missing `y` and `w`.
