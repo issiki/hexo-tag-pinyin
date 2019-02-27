@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/issiki/hexo-pinyin-ruby-marks#readme",
   "dependencies": {
-    "pinyin-tone": "^0.1.1"
+    "pinyin-tone": "^0.1.4"
   }
 }
