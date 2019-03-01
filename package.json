@@ -1,6 +1,6 @@
 {
-  "name": "hexo-pinyin-ruby-marks",
-  "version": "0.1.5",
+  "name": "hexo-tag-pinyin",
+  "version": "1.0.0",
   "description": "A wheel that converts Hanyu pinyin tone numbers to tone marks.",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/issiki/hexo-pinyin-ruby-marks.git"
+    "url": "git+https://github.com/issiki/hexo-tag-pinyin.git"
   },
   "keywords": [
+    "hexo",
+    "tag",
+    "plugin",
     "chinese",
     "pinyin",
     "hanzi",
@@ -21,10 +24,11 @@
   "author": "Futaba Isshiki",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/issiki/hexo-pinyin-ruby-marks/issues"
+    "url": "https://github.com/issiki/hexo-tag-pinyin/issues"
   },
-  "homepage": "https://github.com/issiki/hexo-pinyin-ruby-marks#readme",
+  "homepage": "https://github.com/issiki/hexo-tag-pinyin#readme",
   "dependencies": {
     "pinyin-tone": "^0.1.4"
-  }
+  },
+  "devDependencies": {}
 }
