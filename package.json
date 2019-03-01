@@ -1,7 +1,7 @@
 {
-  "name": "hexo-tag-pinyin",
-  "version": "1.0.0",
-  "description": "A wheel that converts Hanyu pinyin tone numbers to tone marks.",
+  "name": "hexo-pinyin-ruby-marks",
+  "version": "0.2.0",
+  "description": "A plugin for Hexo, which converts Hanyu pinyin `tone numbers` to `tone symbols`.A `pinyin` tag allows users to quickly and easily insert `<ruby>` snippets containing `pinyin tone symbols` into their posts.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

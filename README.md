@@ -1,7 +1,9 @@
 # hexo-pinyin-ruby-marks
 
-- Hexo tag `pinyin`. A wheel that converts "Hanyu pinyin tone numbers" to "tone marks".
-- Hexo`pinyin`标签。一个将“汉语拼音声调数字”转换成“声调符号”的轮子。
+- A plugin for Hexo, which converts Hanyu pinyin `tone numbers` to `tone symbols`. A `pinyin` tag allows users to quickly and easily insert `<ruby>` snippets containing `pinyin tone symbols` into their posts.
+
+- Hexo`pinyin`标签。一个将汉语拼音“声调数字”转换成“声调符号”的轮子。
+`pinyin`标签允许用户快速简单地在文章中插入含有拼音符号的`<ruby>`代码片段。
 
 ## Setup
 
@@ -17,8 +19,8 @@ $ npm install hexo-pinyin-ruby-marks
 - **CONFLICT** with other hexo plugins that have regitered `pinyin` tag.
 - 与其他注册了`pinyin`标签的Hexo插件**冲突**。
 
-- In your new posts, write:
-- 在您的新文章里，写：
+- In your new posts,
+- 在您的新文章里，
 
 ```
 {% pinyin 初音未来|chu1 yin1 wei4 lai2 %}
