@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/issiki/hexo-tag-pinyin#readme",
   "dependencies": {
-    "pinyin-tone": "^0.1.4"
+    "pinyin-tone": "^1.2.0"
   },
   "devDependencies": {}
 }
